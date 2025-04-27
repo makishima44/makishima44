@@ -6,4 +6,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=makishima44&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My Favorite Technologies:
-- ![React](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="30" height="30"/>
