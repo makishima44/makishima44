@@ -1,6 +1,3 @@
-### :fire: My Stats :
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makishima44&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="200" width="400"/>
-  
 ### Technologies I Use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
