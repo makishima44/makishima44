@@ -13,10 +13,17 @@
 
 <h3 align="center">📫 Contact</h3>
 
-<p align="center">
-  📧 Email: <a href="mailto:metallist15431543@email.com">metallist15431543@email.com</a>
-  <br />
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/artur-shyshelau/">Artur Shyshelau</a>
-  <br />
-  💬 Telegram: <a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a>
-</p>
+<table align="center">
+  <tr>
+    <td>📧 Email:</td>
+    <td><a href="mailto:metallist15431543@email.com">metallist15431543@email.com</a></td>
+  </tr>
+  <tr>
+    <td>💼 LinkedIn:</td>
+    <td><a href="https://www.linkedin.com/in/artur-shyshelau/">Artur Shyshelau</a></td>
+  </tr>
+  <tr>
+    <td>💬 Telegram:</td>
+    <td><a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a></td>
+  </tr>
+</table>
