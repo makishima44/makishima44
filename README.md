@@ -13,3 +13,8 @@
   
 
 
+## Contact
+
+- 📧 Email: metallist15431543.com
+- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_LINK)
+- 💬 Telegram: [Telegram](@Artur_Shyshelau)
