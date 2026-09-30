@@ -14,9 +14,9 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  📧 <a href="mailto:metallist15431543@email.com">Email</a>
-  &nbsp; • &nbsp;
-  💼 <a href="https://www.linkedin.com/in/artur-shyshelau/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  💬 <a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a>
+  📧 Email: <a href="mailto:metallist15431543@email.com">metallist15431543@email.com</a>
+  <br />
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/artur-shyshelau/">Artur Shyshelau</a>
+  <br />
+  💬 Telegram: <a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a>
 </p>
