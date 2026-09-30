@@ -11,10 +11,7 @@
 
 </div>
   
-
-
-## Contact
-
-- 📧 Email: metallist15431543.com
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_LINK)
-- 💬 Telegram: [Telegram](@Artur_Shyshelau)
+### Contact
+- 📧 Email: metallist15431543@email.com
+- 💼 LinkedIn: [LinkedIn](linkedin.com/in/artur-shyshelau)
+- 💬 Telegram: [@Artur_Shyshelau](https://t.me/Artur_Shyshelau)
