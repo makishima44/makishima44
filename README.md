@@ -1,9 +1,4 @@
-# Hi, I'm Artur 👋
-# Frontend Developer
-
-I'm a beginner Frontend Developer focused on building modern web applications with React, TypeScript and Next.js.
-
-Currently, I'm improving my skills through practical projects and looking for an opportunity to join a development team, contribute to real projects and grow as a Frontend Developer.
+<h1 align="center">Hi, I'm Artur 👋 | Frontend Developer</h1>
 
 ### Technologies I Use:
 <div>
