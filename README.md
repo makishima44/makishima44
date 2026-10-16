@@ -33,7 +33,7 @@
 </table>
 
 
-<h3 align="center">🎬 Featured Project</h3>
+<h3 align="center">Project</h3>
 
 <p align="center">
   <strong>Frame — Movie Search</strong><br/>
