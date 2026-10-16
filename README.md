@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Artur 👋 | Frontend Developer</h1>
 
+
 <h3 align="center">🛠 Technologies I Use</h3>
+
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -11,7 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 </p>
 
+
 <h3 align="center">📫 Contact</h3>
+
 
 <table align="center">
   <tr>
@@ -27,3 +31,12 @@
     <td><a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a></td>
   </tr>
 </table>
+
+
+<h3 align="center">🎬 Featured Project</h3>
+
+<p align="center">
+  <strong>Frame — Movie Search</strong><br/>
+  A responsive movie and TV catalog built with vanilla JavaScript and powered by TMDB.<br/>
+  <a href="https://moviesearchapp-mauve.vercel.app/">Live demo</a> · <a href="https://github.com/makishima44/movie_search_app">Source code</a>
+</p>
