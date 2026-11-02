@@ -33,10 +33,12 @@
 </table>
 
 
-<h3 align="center">Project</h3>
+<h3 align="center">🌐 Portfolio</h3>
 
 <p align="center">
-  <strong>Frame — Movie Search</strong><br/>
-  A responsive movie and TV catalog built with vanilla JavaScript and powered by TMDB.<br/>
-  <a href="https://moviesearchapp-mauve.vercel.app/">Live demo</a> · <a href="https://github.com/makishima44/movie_search_app">Source code</a>
+  Explore my projects, experience, technologies, and more.
+  <br/><br/>
+  <a href="https://makishima44.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-Explore-6C8CFF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my portfolio"/>
+  </a>
 </p>
