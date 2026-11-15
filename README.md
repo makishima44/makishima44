@@ -23,10 +23,6 @@
     <td><a href="mailto:metallist15431543@email.com">metallist15431543@email.com</a></td>
   </tr>
   <tr>
-    <td>💼 LinkedIn:</td>
-    <td><a href="https://www.linkedin.com/in/artur-shyshelau/">Artur Shyshelau</a></td>
-  </tr>
-  <tr>
     <td>💬 Telegram:</td>
     <td><a href="https://t.me/Artur_Shyshelau">@Artur_Shyshelau</a></td>
   </tr>
